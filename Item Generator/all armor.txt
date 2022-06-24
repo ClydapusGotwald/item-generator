@@ -1,0 +1,16 @@
+Padded
+Leather
+Studded Leather
+Hide
+Chain shirt
+Scale mail
+Breastplate
+Half plate
+Ring mail
+Chain mail
+Splint
+Plate
+Buckler
+Tower shield
+Round shield
+Heater shield

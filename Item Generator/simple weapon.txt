@@ -1,0 +1,10 @@
+Club
+Dagger
+Great-Club
+Hand Axe
+Javelin
+Light Hammer
+Mace
+Quaterstaff
+Sickle
+Spear

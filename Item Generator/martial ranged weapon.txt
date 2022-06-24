@@ -1,0 +1,5 @@
+Blowgun
+Hand Crossbow
+Heavy Crossbow
+Longbow
+Net

@@ -1,0 +1,19 @@
+Every attack that hits the creature wearing this armour is considered a critical hit.
+The wearer of this armour cannot benefit from healing magic or potions.
+If a creature wearing this armour is the target of an attack that was a critical fail, it instead becomes a critical hit.
+No creature can come within 10 ft of the creature wearing this armour.
+Once donned, this armour cannot be doffed without the creature wearing it completely covering themselves in oil.
+The wearer of this armour is vulnerable to all physical damage (bludgeoning, piercing, slashing)
+The wearer of this armour is vulnerable to all non physical, elemental damage (fire, cold, lightning etc.)
+The wearer of this armour is vulnerable to all non physical, "rare" damage (Force, psychic, necrotic, radiant etc.)
+If the wearer enters water, they become paralysed, a creature can lift the creature wearing the armour from the water with a successful DC 21 strength check, ending the effect. Doffing the armour also ends the effect but requires the same check to retrieve it from the water. -At the start of combat, after initiative, the creature wearing this armour must make a DC 17 Charisma saving throw, on a fail, their movement is reduced by half until the combat is over.
+A creature wearing this armour cannot benefit from any beneficial spell effects.
+After attunement. Every object or creature that touches this armour sticks to it, removing the armour does not end this effect, it can only end when Universal Solvent has been applied to it.
+This armour emits invisible noxious fumes that do 3d6 poison damage to all creatures within 30 ft of the wearer, but not the creature wearing the armour.
+Damage done to the creature wearing this armour instead damages a random friendly creature within 60ft.
+The creature attuned to this armour cannot gain the benefit of a long rest while within 30ft of the armour.
+Damage done to the creature wearing this armour also heals the creature attacking.
+When a creature wearing this armour uses their entire movement on a turn, they must make a DC 18 Constitution saving throw or become Reduced (see Enlarge/Reduce) for 1d4+1 rounds
+At the start of the creature wearing this armours turn, they roll a d6. On a 1, they are teleported 30ft back from where they are facing. On a 6 they are teleported 60ft forward from where they are facing.
+A creature wearing this armour automatically fails any spell or effect that includes banishment or shape changing.
+A creature attuned to this armour makes a DC 18 Constitution saving throw during each long rest they take, on a fail, their AC is permanently reduced by 1, even if they change armour, only a Wish spell can remove this effect.

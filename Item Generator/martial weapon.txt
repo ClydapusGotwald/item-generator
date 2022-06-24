@@ -1,0 +1,17 @@
+Battleaxe
+Flail
+Glaive
+Greataxe
+Great-sword
+Halbred
+Lance
+Long-sword
+Maul
+Morning Star
+Pike
+Rapier
+Scimitar
+Short-swordTrident
+War Pick
+War-Hammer
+Whip

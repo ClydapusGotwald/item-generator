@@ -1,0 +1,26 @@
+Curse: None
+Lesser sunlight sensitivity: You find it harder to see in bright daylight, thick clouds and dusk and dawn usually help. -1 to attack rolls and perception checks in bright direct sunlight.
+Smelly: How ever much you wash you seem to have an unpleasant smell about you, -1 to persuasion rolls. Party members and Inn keepers might ask you to sleep outside.
+Hated by dogs: For some reason dogs growl and bark at you when ever they can see you, get too close and they might bite.
+Silver aversion: Contact with silver objects gives you a rash, silver weapons do double damage against you.
+Thin Skinned: -1 to AC.
+Doesn't do critical hits.
+A creature using causes them to take 2d4 psychic damage on attacks that miss.
+Weapon cannot damage unaligned creatures.
+When an attack hits, heals a hostile creature at random within 60ft of the attack target for the damage dealt by the attack. If they are at full hp, they still gain this benefit.
+A creature using this weapon cannot benefit from the Extra Attack feature.
+Damage from this weapon doesn't harm hostile creatures, it instead damages a friendly creature within 60ft, at random.
+This weapon cannot be removed from it's sheath if hostile creatures are within 100ft.
+When a critical hit is scored with this weapon the creature using it must make a DC 19 Charisma Saving Throw, on a fail, they are sucked into the sword for 1d4 rounds.
+A creature using this weapon is vulnerable to the same type of damage it causes.
+On a critical fail this weapon explodes and is destroyed, dealing 5d8 force damage to the creature holding it.
+When a creature un-sheates this weapon, it becomes stuck to their hands, it can only be unstuck by the blood of a Good aligned creature coming into contact with it.
+On a successful attack, the creature holding this weapon makes a DC 17 Constitution saving throw, on a fail they become blind and deaf until a spell that can reverse these effects is used on them.
+Attacks with this weapon are made at disadvantage.
+This weapon changes type every round, from greatsword to dagger, from dagger to rapier etc.
+Damage from this weapon is halved.
+This weapon cannot damage X type of creature (Fiends, Undead, Monstrosities etc)
+On a critical hit, this weapon turns into a bunch of flowers that must be offered to the creature it damaged to reverse the effect.
+This weapon spawns 1d12 Goblins on a critical success or failure.
+This weapon can only be used in sunlight.
+A creature in possession of this weapon must make a DC 18 Constitution saving throw during every long rest they take, on a fail, their attack bonus is reduced by 1 permanently, even if they change weapon, only a Wish spell can reverse this effect.
