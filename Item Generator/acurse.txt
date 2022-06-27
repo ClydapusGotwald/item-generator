@@ -1,3 +1,4 @@
+Thin Skinned: -1 to AC.
 Every attack that hits the creature wearing this armour is considered a critical hit.
 The wearer of this armour cannot benefit from healing magic or potions.
 If a creature wearing this armour is the target of an attack that was a critical fail, it instead becomes a critical hit.

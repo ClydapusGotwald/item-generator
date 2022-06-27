@@ -1,0 +1,56 @@
+Of Might: Advantage on STR contests to avoid Grapple and similar effects
+Of Speed: Advantage on DEX saving throws that are made to avoid enemy attacks
+Of Resilience: Advantage on CON saving throws against and creature abilities
+Of Intellect: Advantage on Intelligence saving throws against harmful spells
+Of the Wise: Advantage on Wisdon saving throws against harmful spells
+Of the Vain: Advantage on Charisma checks against effects that would Charm, Possess, or Frighten the wearer
+Of the Eagle: Advantage on Perception Checks that rely on Sight
+Of the Vulture: When you reduce an enemy to 0 hit points with an attack, you may make a bonus attack against an enemy who is adjacent to you (you cannot move first).
+Of the Lion: Leap: With a 10 foot running start, you can jump an additional 10 feet
+Of the Bear: You have advantage in contests or saving throws if a failure would lead to you being Grappled or Restrained
+Of the Boar: If you moved 20 feet in a straight line towards an enemy before attacking them and have not moved away from them this turn, your first attack this round deals +3 damage.
+Of the Owl: You have Darkvision to 60 feet if you do not already have it.
+Of the Heron: You suffer 1 less damage from non-magical attacks whilst at least partially immersed in water
+Of the Eel: You cannot be grappled by enemies
+Of the Dolphin: You can move through water at your normal movement rate
+Of the Pirhana: If you damaged an enemy during your last turn, your next attack deals 1 bonus damage
+Of the Toad: Your maximum jump distance increases by 5 whilst wearing this armour.
+Of the Viper: You have advantage on saving thows against poison effects
+Of the Wolf: The armour has one charge. Once per day you may expend the charge to emit a wolf like howl as a bonus action, granting one ally a fresh saving throw against a negative effect that is affecting them, if they would normally be allowed a saving throw during their next turn.
+Of the Dragon: Whilst attuned, you can read and speak Draconic
+Of the Weasel: Whilst attuned, you understand Thieves Cant
+Of the Mammoth: You cannot be Shoved
+Of the Sabretooth: Attacks you make with Piercing Weapons deal an additional +1 damage. This does not make them magical.
+Of Acid Resistance: You suffer 1d6 less damage from acid damage
+Of Thunder Resistance: You suffer 1d6 less damage from thunder damage
+Of Fire Resistance: You suffer 1d6 less damage from fire damage
+Of Cold Resistance: You suffer 1d6 less damage from cold damage
+Of Poison Resistance: You suffer 1d6 less damage from poison damage
+Of Force Resistance: You suffer 1d6 less damage from force damage
+Of the Day: When you are reduced to 0hp from a piercing, slashing or bludgeoning attack, you drop to 1hp instead. The effect works once per day, and only during the day.
+Of the Night: When you are reduced to 0hp from a piercing, slashing or bludgeoning attack, you drop to 1hp instead. The effect works once per night, and only during the night.
+Of the Dusk: When reduced to 0hp, you have advantage on your first death saving throw in the next turn.
+Of the Dawn: If an attack would deal enough damage to kill you outright in a single hit, you are reduced to 0hp instead.
+Of the Heavens: Good Alignment only. When you suffer damage from a spell attack cast by an Evil aligned being, the armour retains some of the power. If you make a ranged or melee attack in the next turn it will deal a bonus 1d6 damage. The effect can only apply once per turn.
+Of the Hells: Evil Alignment only. When you suffer damage from a spell attack cast by a Good aligned being, the armour retains some of the power. If you make a ranged or melee attack in the next turn it will deal a bonus 1d6 damage. The effect can only apply once per turn.
+Of Garvin: Your reading speed is doubled
+Of Omen: If you have Inspiration and roll a 6 on the die when using it, you retain Inspiration.
+Of Pepestrel: You cannot get drunk, no matter how much you drink.
+Of Merneth: You have advantage on Stealth checks whilst in a forest, wood or jungle.
+Of Hallion: Once per day you can cast the Disguise Self spell.
+Of Valass: You have advantage on saving throws against spells and effects that would limit your movement in the next turn.
+Of Sauvaign: You suffer 1 less damage from non-magical piercing, slashing and bludgeoning attacks.
+Of Araklion: Only Good characters gain the benefits of this armour. Once per day you may cast the Light spell at first level.
+Of Oblivion: Only Evil characters gain the magical benefits of this armour. Once per day you may cast the Darkness spell at first level.
+Of Heroism: Once per day you can cast the Heroism spell on yourself
+Of Glory: The magical bonus of this item is +2 rather than +1
+Of Dragon Slaying: When you suffer damage from a Dragon you regenerate 3 hit points at the beginning of your next turn.
+Of Giant Slaying: When you suffer damage from a Giant you regenerate 3 hit points at the beginning of your next turn.
+Of Aberration Slaying: When you suffer damage from an Aberration you regenerate 3 hit points at the beginning of your next turn.
+Of Beast Slaying: When you suffer damage from a Beast you regenerate 3 hit points at the beginning of your next turn.
+Of Celestial Slaying: When you suffer damage from a Celestial you regenerate 3 hit points at the beginning of your next turn.
+Of Elemental Slaying: When you suffer damage from a Elemental you regenerate 3 hit points at the beginning of your next turn.
+Of the Fey Slayer: When you suffer damage from a Fey you regenerate 3 hit points at the beginning of your next turn.
+Of Fiend Slaying: When you suffer damage from a Fiend you regenerate 3 hit points at the beginning of your next turn.
+Of Monstrous Slaying: When you suffer damage from a Monstrosity you regenerate 3 hit points at the beginning of your next turn.
+Of Undead Slaying: When you suffer damage from an Undead creature you regenerate 3 hit points at the beginning of your next turn.

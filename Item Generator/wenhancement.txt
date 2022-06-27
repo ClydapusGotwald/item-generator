@@ -1,0 +1,100 @@
+Normal
+Absorbing: The weapon has 4 charges. When you are hit by an attack while wielding this weapon, you may expend 1 charge and use your reaction to reduce the incoming damage by 1d12. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move. The weapon regains 1d4 charges at dawn.
+Alarm: The weapon starts to emanates the sound of a bell when a fiend, aberration, fey, undead, dragon, or elemental gets within 30 feet of it.
+Aquatic: Allows the wielder to breathe underwater and suffers no penalty to attacks in water
+Assassin: You deal extra damage with this weapon if you surprise the opponent.
+Banishing: Upon a successful hit, this weapon has a chance to banish dimensional & summoned beings & creatures.
+Blinding: X times per long rest, this weapon emits a bright light, causing blindness on a successful hit.
+Blood Frenzy: After the weapon is used to kill 5 creatures, it grants a +2 to hit. After the weapon is used to kill 10 creatures it grants +1 extra attack. Bonuses last 10 turns. Killing another creature within the time limit resets the timer.
+Blood Hound: Upon successful hit, the wielder of this weapon will know the distance & direction of the target for the next 'x' hours.Boreal: If laid on the ground the weapon will turn to point North. Also, if used to 'attack' the air it can increase or decrease local windspeed by 1 mph for every HP of damage it would have dealt. This doesn't work if there couldn't naturally be wind in the area (e.g. in most dungeons).
+Breaching: If weapon is used on a door, portcullis, or gate, the objects AC and Damage Threshold are reduced by 'x'. This reduction only applies to attacks from the 'breaching weapon' and does not stack from multiple attacks.
+Breaker: On a successful Critical Hit Attack Roll, the weapon breaks a bone in the target.
+Breath Stealing: 1d3 times per day, a magic using humanoid struck by this weapon has a 20% chance of spell failure (plus an additional 1% for every 5 points of damage dealt) casting any spell with a verbal component, for the next 1d3 turns. CON save DC 12+Proficiency Bonus negates this effect, the victim may save against this effect at the end of each of their turns.
+Camouflage: When wielding this weapon, you can say a command word to transform this weapon into a small, mundane dagger. This is useful for hiding your weapon on your person.
+Cavalry’s Choice: This weapon is best used on horseback. Gain advantage when riding a mount and disadvantage without one.
+Celestial: Your weapon sparkles with the light of the heavens. When this weapon is equipped, you can commune with Celestial beings.
+Chop: Once every three combat rounds, your weapon does double damage if it wounds the foe.
+Cleaving: Double damage when used against inanimate objects.
+Communication: Once per day, you can cast Tongues when wielding this weapon.
+Confessor: Wounds dealt by the weapon become bloody mouths that announce things their bearer is guilty about or ashamed of.
+Consecrating: The corpses of those struck cannot rise from the grave as any malevolent undead, such as shadows, zombies, or vampire spawn.
+Consuming: As an action, up to 1d6 times per day, suck a total of 1d6 hitpoints from one or more willing allies within 30 feet of you; gain advantage on your next melee attack; on a hit, you deal an additional amount of damage equal to twice that number as acid damage (DC 12+Proficiency Bonus Reflex save, for half)
+Corpse Destroyer: Upon a successful hit, the corpse of the target will dissolve into dust when they get killed.
+Corrosive: This weapon oozes acid, dealing 1d6 extra acid damage on a hit.
+Defender: The weapon has an extra +2 bonus when parrying attacks made against another.
+Defensive: Once per day, as an immediate action, if a melee attack against the player would hit, the attacker must reroll and take the lowest result instead.
+Demiplane: The weapon contains a demiplane within it (a 30ft x 30ft x 30ft space). Once per day, the wielder (and one willing creature that they are touching) can teleport into this demiplane. Unlike a standard demiplane, this one has a door, allowing those inside to leave at any time. While inside the demiplane the weapon drops to the ground at the point where the wielder was standing. When exiting creatures appear in the closest adjacent open space to the weapon.
+Desiccating: The weapon sucks the water out of the target. Bonus 1d6 necrotic damage. On a critical hit, it also causes one level of exhaustion. Causes an extra 1d6 necrotic damage to plant or water based creatures.
+Diminution: When you make a successful attack with this weapon on a creature that is Large or Medium, you reduce their size to Medium or Small respectively. 1/Long Rest.
+Distraction: Once per short rest, the weapon can create a trailing blur which confuses an adversary, allowing the wielder Advantage on one attack roll.
+Divine: This weapon can be commanded to glow. The weapon emits 30 ft. of bright light. Infernal creatures and undead suffer the effect of the 'bane' spell when exposed to this light.
+Dragging: 1d4 times per day, gain the ability to cast Thorn Whip using the weapon, at first level.
+Ender: When a target is slain by this weapon, it's body and soul are destroyed. Creatures cannot be resurrected, reincarnated, or rejuvenated.
+Erratic: Before rolling damage on a successful hit, the player may choose to flip a coin. On heads, the weapon does its maximum damage, on tails, it does its minimum damage.
+Favored (Enemy / Prey): When fighting X, the weapon has a +2 to hit and does and extra 1d6 damage.
+Flaming: Your weapon catches fire and deals 1d4 fire damage on a successful attack roll.
+Force: On a successful Critical Hit Attack Roll, the weapon knocks the target away 5 feet in whatever direction the wielder determines.
+Frost: This weapon appears to be frozen. It deals an extra 1d6 cold damage on a hit.
+Ghost Light: This weapon can be commanded to glow. The weapon emits 30 ft. of ghostly, dim light. Invisible and ethereal (creatures, objects) exposed to this light become translucent but visible.
+Goliath Killer: This weapon deals 1d6 bonus damage to a targeted creature if they’re bigger than the wielder.
+Gorgon: One time per long rest, on a successful hit with the weapon, the wielder may cast flesh to stone.
+Guide: If you throw this weapon in the air, it will always point North when it lands. This is useful for tracking your location, providing you with a +2 to ability checks made to avoid getting lost.
+Handling: This weapon ‘glues’ itself to your hand. You can never be disarmed while using this weapon.
+Harpoon: The weapon can be thrown up to 60ft creating a magic cord between wielder and target. The wielder can spend an action to make a STR check to pull the target 25ft directly towards them. The wielder can also spend an action to pull themselves 25ft towards the target.
+Head Hunter: On a natural 20, the weapon beheads the target if they are lower than half health.
+Healing: While causing damage to your opponent, your damaging strike also has a 50% chance of healing you for 1d4 damage.
+Holy: You gain Protection from Evil while wielding.
+Homing: When separated from the weapon, the owner will have a sense of where it is.
+Icing: Three times per long rest, the wielder may strike a solid surface coating it with ice. Effect similar to 'grease' spell.
+Illusory Strikes: 'x' times per long rest, the weapon generates multiple illusions of attacks when the wielder makes a real attack. They seem to be different types of strikes (high, low, downward, thrust, etc). Effect reduces targets AC from (dex or fighting skills) for the strike.
+Incorruptible: The blade is self-cleaning and self-sharpening. It is immune to rust monsters and dispel magic.
+Indestructible: No matter how much damage this weapon endures, it will always reform within 12 hours.
+Inebriating: On a successful critical hit, the weapon inflicts drunkenness on the target.
+Inspiring: Three times per day the wielder may cast bless on any allies within range.
+Insulated: If the striking surface of the weapon is exposed to (cold, heat, electricity, eldritch power), the energy doesn't transfer to the grip, haft, or wielder.
+Intimidation: While this weapon is equipped, your voice becomes deeper and booming. Once per short rest, you can use Intimidation with advantage.
+Inverse Edge: The weapon treats hard things as if they were soft and soft things as if they were hard.
+Last Stand: If the wielder is reduced to 10 hp or 20% of their total hp, whichever is lower. The weapon grants advantage on to hit rolls and 1 extra attack. Effect last until the wielder is out of immediate danger.
+Leaping: With the weapon drawn, the wielder can cast jump at will.
+Loyal: The weapon won't let itself be stolen, inflicting 1 hp damage per round it's carried, or 2 hp per round on anyone but its owner trying to use it. If its owner dies, it will mourn for d12 months, treating everyone as a thief in the meantime. Anyone who kills a past owner will be regarded as a thief forever.
+Marching: 1d3 times per day, as a free action, the wielder may add 10 feet to their normal movement speed for 1d6 consecutive rounds.
+Melodic: Used by city guards to avoid disturbing the populace. Magic combined with holes drilled into the weapon manipulates the air as it as swung, creating enchanted music which disguises the sounds of combat as a boisterous night at the tavern.
+Missile Deflecting: Three times per long rest, the wielder may spend a reaction to reduce the damage from a projectile by 1d10 + Dex mod.
+Morality: You can cast Detect Good and Evil up to 3 times a day while holding this weapon.
+Necromancer: Two times per long rest, a creature slain by this weapon can be raised as a zombie controlled by the wielder for 6 hours.
+Never Lost: Once attuned the wielder can sense the presence of the weapon if it is within 1 mile. Wielder knows the distance and direction of the weapon. If the weapon is moving, the wielder knows what direction it is moving and how fast it is moving.
+Paralyzing: Once per long rest, this weapon can inflict paralysis on a successful hit.
+Parting: The wielder can take a reaction to part an area effect attack. The wielder makes a save vs the attack. On a successful save it creates a 5ft wide corridor in the area of effect where it has no effect. Any (creatures, items) in this corridor unaffected by the power of the area of effect.
+Precise: This weapon scores a critical hit on a natural 19 or 20.
+Primed Possession: The next creature killed by this weapon has their soul trapped within the blade. The wielder can communicate with their soul, if the soul is willing to speak.
+Reach: 3 times per day, you can double the range of this weapon.
+Reactive: The weapon has 4 charges. When you are hit by an attack while wielding this weapon, you may expend 1 charge and use your reaction to impose disadvantage on the attack. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move. The weapon regains 1d4 charges at dawn.
+Reflection Biter: Attacking a target's reflection with the weapon causes damage (as if you actually hit the target).
+Reliable: Before rolling damage on a successful hit, the player may choose to use the average roll for the damage die.
+Reverberation: On a successful Critical Hit Attack Roll, the weapon creates a resonating hum that breaks concentration within a 60 foot sphere centered on the wielder.
+Self Cleaning: Any dirt, grime, or blood just falls off, dissolves, or is burned away. Unless submersed in it, any damaging substance affecting the weapon or wielder has it's duration reduced to 1 turn.
+Shadow Biter: Attacking a target's shadow with the weapon causes damage (as if you actually hit the target).
+Shadow Weapon: The weapon is visible as shadow in bright light, but almost invisible in dim lighting.
+Shattering: On a critical hit, this weapon breaks beyond repair and does max damage.
+Shrink: On a command word, the weapon can magically shrink so that you can wear it as an item of jewelry and vice versa.
+Size Conforming: The weapon changes size based on the wielders size. It will become the ideal size to wield even if the wielders size is suddenly altered by magic.
+Sovereign Among Weapons: Mundane weapons of the same type (e.g. spear-spear, dagger-dagger, mace-mace, etc.) refuse to be wielded against the magic weapon's bearer.
+Spell Loader: The weapon can absorb one touch spell that is cast upon it. It cannot absorb another spell until the first one is discharged. On a successful hit, the wielder can choose to discharge the stored spell on the target.
+Spirit Binding: Two times per long rest, a creature slain by the weapon can be raised as a ghost controlled by the wielder.
+Spirit Weapon: The weapon passes through non-magical materials as if it was ethereal. It ignores AC from non-magical armor. It can only damage living beings and spirits, it is unable to damage inanimate objects.
+Stalwart: 2d3 times per day, gain advantage on your next melee weapon attack with this weapon, when adjacent to two or more enemies of your size or larger, while being more than 30 feet away from your nearest ally; on a hit, add 1 additional point of damage per enemy you are adjacent to, or instead, choose to gain 1d4 temporary hit points until the end of your next turn.
+Storm: the weapon does an additional 1d6 lightning damage on a successful attack, and does 2d6 on a critical hit.
+Strength Draining: Two times per long rest, the weapon can drain 1d4 strength upon a successful hit. Strength recovers at 1 per 10 minutes.
+Summonable: Once attuned the wielder can summon the weapon to their hand, if it is within 'x' ft. of the wielder.
+Summoning: If you take cold damage while wielding this weapon, as a reaction you can summon an ice mephit to aid you. 3/Long Rest.
+Sunder: On a successful Critical Hit Attack Roll, the weapon breaks the opponent's weapon or shield (DM choice).
+Susceptibility: When you make a successful attack with this weapon on a creature, it becomes vulnerable to a random damage type until the end of its next turn.
+Swordcatcher: Gain advantage on checks made to disarm opponents in combat.
+Thief Ward: If a creature handles the weapon without the wielders permission, the weapon causes 1pt of lightning damage per turn until the weapon is dropped. Note: If the wielder willingly places the weapon upon a creature, that counts as granting permission.
+Training: Made to help beginners learn to fight, the weapon nudges the wielders' motions toward better technique. Double experience earned from fights using it.
+Translation: Once per short rest, the weapon holder can comprehend and speak a single foreign language for 60 seconds.
+Twin: On a command word the weapon duplicates itself (for two-weapon fighting or one can be thrown). Only two can exist at the same time and it can be returned to a single weapon with a separate command word.
+Veiling: With the weapon drawn, the wielder is invisible to undead.
+Vengeance: If its bearer is killed while holding it, the weapon will animate and attempt to slay their bearer's killer.
+Vengeful: If the wielder is hit by an attack, then on the next turn the wielder gains advantage to hit the (creature, opponent) that hit them.
+Weightless: Once attuned, this weapon is effectively weightless to the wielder. May be used as a finesse weapon regardless of size.

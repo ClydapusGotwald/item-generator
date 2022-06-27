@@ -3,7 +3,6 @@ Lesser sunlight sensitivity: You find it harder to see in bright daylight, thick
 Smelly: How ever much you wash you seem to have an unpleasant smell about you, -1 to persuasion rolls. Party members and Inn keepers might ask you to sleep outside.
 Hated by dogs: For some reason dogs growl and bark at you when ever they can see you, get too close and they might bite.
 Silver aversion: Contact with silver objects gives you a rash, silver weapons do double damage against you.
-Thin Skinned: -1 to AC.
 Doesn't do critical hits.
 A creature using causes them to take 2d4 psychic damage on attacks that miss.
 Weapon cannot damage unaligned creatures.

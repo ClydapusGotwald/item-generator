@@ -50,9 +50,18 @@ while True:
             elif armor_choice == 'back':
                 break
     elif choice == 'enhancement':
-        random_enhancement = random.choice(open('enhancement.txt').readlines())
-        print(random_enhancement)
-        continue
+        print('What is the enhancement for? Weapon or Armor?')
+        enhancement_choice = input()
+        enhancement_choice = enhancement_choice.lower()
+        while True:
+            if enhancement_choice == 'weapon':
+                random_enhancement = random.choice(open('wenhancement.txt').readlines())
+                print(random_enhancement)
+                break
+            elif enhancement_choice == 'armor':
+                random_enhancement = random.choice(open('aenhancement.txt').readlines())
+                print(random_enhancement)
+                break
     elif choice == 'curse':
         print('What is the curse for? Weapon or Armor?')
         curse_choice = input()
@@ -68,19 +77,19 @@ while True:
                 break
     elif choice == 'rwg': #Random Weapon Generated
         random_weapon = random.choice(open('all weapons.txt').readlines())
-        random_enhancement = random.choice(open('enhancement.txt').readlines())
+        random_enhancement = random.choice(open('wenhancement.txt').readlines())
         random_curse = random.choice(open('wcurse.txt').readlines())
         print(random_weapon)
-        print(random_enhancement)
-        print(random_curse)
+        print('Enhancement - ' + random_enhancement)
+        print('Curse - ' + random_curse)
         continue
     elif choice == 'rag': #Random Armor Generated
         random_armor = random.choice(open('all armor.txt').readlines())
-        random_enhancement = random.choice(open('enhancement.txt').readlines())
+        random_enhancement = random.choice(open('aenhancement.txt').readlines())
         random_curse = random.choice(open('acurse.txt').readlines())
         print(random_armor)
-        print(random_enhancement)
-        print(random_curse)
+        print('Enhancement - ' + random_enhancement)
+        print('Curse - ' + random_curse)
         continue
     elif choice == 'quit':
         break
